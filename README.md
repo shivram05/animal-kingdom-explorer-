@@ -2,7 +2,7 @@ In this Animal Kingdom app, there is two button functionality as
 
 1. Animal Details
    => In Animal Details there is add button functionality where there would be three fields Animal name, Habitat and diet, when we click on save button then it saved in the
-   local database using Room, after that it fetches the list of data using Live Data from the room and shown in the list, these list and can be scrollable using Recyclerview. 
+   local database using Room, after that it fetches the list of data using Live Data and can be shown in the list, these list and can be scrollable using Recyclerview. 
 3. Species Details
  =>  In Species Details there is add button functionality where there would be two fields  name and description, when we click on save button then it saved in the
    local database using Room, after that it fetches the list of data using Live Data and can be shown in the list, these list and can be scrollable using Recyclerview. 
